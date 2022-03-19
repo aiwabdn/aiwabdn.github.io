@@ -17,12 +17,12 @@ title: Anindya says
 email: aiwabdn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts, opinions, notes and projects
-# url: https://aiwabdn.github.io
-# baseurl: /home
+url: "https://aiwabdn.github.io"
+baseurl: "/home"
 # twitter_username: username
 github_username: aiwabdn
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 search: true
 
 # Build settings
@@ -59,6 +59,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-archive
   - jemoji
   - jekyll-include-cache
 
