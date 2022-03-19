@@ -38,7 +38,7 @@ include:
   - _pages
 
 head_scripts:
-#   - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML
   - https://vincenttam.github.io/javascripts/MathJaxLocal.js
 
 # Exclude from processing.
