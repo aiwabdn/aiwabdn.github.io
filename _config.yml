@@ -21,7 +21,7 @@ url: "https://aiwabdn.github.io"
 baseurl: "/home"
 # twitter_username: username
 github_username: aiwabdn
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 search: true
 
