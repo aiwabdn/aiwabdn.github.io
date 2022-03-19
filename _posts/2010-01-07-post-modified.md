@@ -1,12 +1,11 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "ConvNext: ConvNets for the 2020s [arxiv](https://arxiv.org/abs/2201.03545)"
+# last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
-  - Blog
+  - ML
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - paper-review
+  - machine-learning
 ---
 
 This post has been updated and should show a modified date if used in a layout.
