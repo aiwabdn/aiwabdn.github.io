@@ -23,7 +23,7 @@ baseurl: "/home"
 github_username: aiwabdn
 # theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
