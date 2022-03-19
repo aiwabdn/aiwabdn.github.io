@@ -90,8 +90,8 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "index.md"
-      type: pages
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
