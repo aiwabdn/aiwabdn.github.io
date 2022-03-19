@@ -23,7 +23,7 @@ url: "https://aiwabdn.github.io"
 github_username: aiwabdn
 # theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
@@ -32,14 +32,14 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
 
-# head_scripts:
+head_scripts:
 #   - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
-#   - https://vincenttam.github.io/javascripts/MathJaxLocal.js
+  - https://vincenttam.github.io/javascripts/MathJaxLocal.js
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
