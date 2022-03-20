@@ -1,5 +1,5 @@
 ---
-title: "ConvNext: ConvNets for the 2020s [arxiv](https://arxiv.org/abs/2201.03545)"
+title: "ConvNext: ConvNets for the 2020s"
 # last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - ML
@@ -7,6 +7,8 @@ tags:
   - paper-review
   - machine-learning
 ---
+
+## [arxiv link](https://arxiv.org/abs/2201.03545)
 
 This post has been updated and should show a modified date if used in a layout.
 
